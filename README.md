@@ -11,5 +11,4 @@ Se desea programar una aplicación distribuida información meteorológica, sigu
   · Implementar el servidor
   
   · Implementar el cliente.
-  
-Entregar el proyecto, y un informe que indique los pasos que se han seguido.
+ 
